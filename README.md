@@ -3,7 +3,7 @@
 <h3 align="center">fullstack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InalXan&label=Profile%20views&color=0e75b6&style=flat" alt="InalXan" /> </p>
 
-- 🌱 I’m currently learning **Vue3js, Nuxt3.js, Ejs, **
+- 🌱 I’m currently learning **Vue3js, Nuxt3.js, Ejs, Rust**
 - 💬 Ask me about **Vue3js, Nuxt3.js, Ejs, Rust**
 
 
