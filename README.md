@@ -1,5 +1,6 @@
-<img src="giphy.gif" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Inal</h1>
+<img src="giphy.gif" />
 <h3 align="center">fullstack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InalXan&label=Profile%20views&color=0e75b6&style=flat" alt="InalXan" /> </p>
 
