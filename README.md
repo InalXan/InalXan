@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Inal</h1>
 <h3 align="center">fullstack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InalXan&label=Profile%20views&color=0e75b6&style=flat" alt="InalXan" /> </p>
-<img src="giphy.gif" align="right" width="200"  /><img src="giphy2.gif" align="right" width="200"  />
+<img src="giphy.gif" align="right" width="200"  />
 - 🌱 I’m currently learning **Vue3js, Nuxt3.js, Ejs, Rust**
 - 💬 Ask me about **Vue3js, Nuxt3.js, Ejs, Rust**
 
