@@ -3,8 +3,6 @@
 <h3 align="center">fullstack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=InalXan&label=Profile%20views&color=0e75b6&style=flat" alt="InalXan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InalXan&theme=" alt="InalXan" /></a> </p>
-
 - 🌱 I’m currently learning **Vue3js, Nuxt3.js, Ejs, **
 - 💬 Ask me about **Vue3js, Nuxt3.js, Ejs, Rust**
 
